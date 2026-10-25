@@ -1,0 +1,10 @@
+{
+  "contractAddress": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+  "adminAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "issuerAddress": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+  "network": "localhost",
+  "chainId": 31337,
+  "deployedAt": "2026-10-21T05:25:59.116Z",
+  "txHash": "0x38fa1648fc42e6f341de5c8ef9eeb4ab13111b5ae5169259eeb6d48a6fa23717",
+  "blockNumber": 2
+}
